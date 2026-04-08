@@ -1,0 +1,10 @@
+#notebook
+#ipykernel
+pandas
+torch
+transformers
+huggingface-hub>=0.34.0
+tqdm
+gensim
+matplotlib
+numpy
