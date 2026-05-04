@@ -1,0 +1,9 @@
+torch
+transformers
+accelerate
+peft==0.14.0
+bitsandbytes
+tqdm
+scikit-learn
+matplotlib
+numpy
